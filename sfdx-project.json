@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "GIFter",
+      "versionName": "Summer '22",
+      "versionNumber": "1.1.0.NEXT",
+      "versionDescription": "Using GIPHY to find GIFs and post to Chatter"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0",
+  "packageAliases": {
+    "GIFter": "0Ho090000004CkVCAU",
+    "GIFter@1.0.0-1": "04t09000000zUfWAAU",
+    "GIFter@1.1.0-1": "04t09000000zUg0AAE"
+  }
+}
